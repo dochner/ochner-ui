@@ -1,0 +1,12 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" stroke="null">
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <text transform="matrix(17.3534 0 0 17.3534 -830.558 -6998.74)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Raleway'" font-size="16" id="svg_1" y="423.89633" x="48.36899" stroke-width="0" fill="url(#svg_2)">OUI</text>
+ </g>
+ <defs>
+  <linearGradient spreadMethod="pad" y2="0" x2="1" y1="0" x1="0" id="svg_2">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#00ffe1"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#00ff1d"/>
+  </linearGradient>
+ </defs>
+</svg>
